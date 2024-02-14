@@ -15,7 +15,7 @@ print('Welcome to Nerve of Steel\nGame Rule: Last to sit down wins')
 
 print('Players Stand')
 
-print(input('Press Enter to Start'))
+input('Press Enter to Start')
 
 time.sleep(randomtime)
 
